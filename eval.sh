@@ -1,0 +1,1 @@
+python eval.py --data_val_dir ./data/val --model_dir ./output/your_chcekpoint_dir

@@ -1,0 +1,1 @@
+python test.py --data_test_dir ./test-final/test-final --model_dir ./output/your_chcekpoint_dir --submission_name my_submission.csv

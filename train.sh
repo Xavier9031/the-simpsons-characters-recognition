@@ -1,0 +1,1 @@
+python train.py --data_train_dir ./data/train --data_val_dir ./data/val --num_epochs 20 --batch_size 32
